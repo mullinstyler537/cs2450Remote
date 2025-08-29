@@ -1,0 +1,1 @@
+Date: 8.29.25 - Subject: What I learned today. We talked about creating a remote and local repository and how to connect the two. Now I am working on keeping up with my engineering journal. All of this has reminded me of IT 1100 last year with using Linux. Now that class is paying off.
