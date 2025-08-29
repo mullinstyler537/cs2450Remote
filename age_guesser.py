@@ -14,4 +14,4 @@ while not guessed_correctly:
         print(f"Awesome! {name} is {guess} years old.")
         guessed_correctly = True
     else:
-        print("Dang it.")
+        print("Better luck next time.")
