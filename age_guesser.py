@@ -2,7 +2,7 @@ import random
 
 print("Hi there! I'm going to try to guess your age.")
 
-name = input("What's your name? ")
+name = input("Please input your name:  ")
 
 guessed_correctly = False
 
