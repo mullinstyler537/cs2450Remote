@@ -1,0 +1,1 @@
+Date: 8.26.25 - Subject: What I learned today. We talked about the importance of keeping an engineering journal. I've been asked to write in it at least one time a week. It seems like a really good idea though, and I think I'll keep track of things for my other classes as well.
