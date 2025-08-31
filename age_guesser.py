@@ -11,4 +11,4 @@ while True:
         print(f"Awesome! {name} is {guess} years old.")
         break
     else:
-        print("Rats.")
+        print("Dang it.")
