@@ -1,1 +1,3 @@
 Date: 8.26.25 - Subject: What I learned today. We talked about the importance of keeping an engineering journal. I've been asked to write in it at least one time a week. It seems like a really good idea though, and I think I'll keep track of things for my other classes as well.
+
+Date 9.12.25 - Subject: What I began working on today. We began the class talking about requirements documents and then user stories. Our professor showed us how to create them on the issues tab in the repository. An amazing thing is that you can assign the issues to each person in the group so we know what to work on. This will help us divy up work later on in the project. Starting with a good base will make everything, later on, run more smoothly.
