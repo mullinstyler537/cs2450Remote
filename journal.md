@@ -1,3 +1,7 @@
 Date: 8.26.25 - Subject: What I learned today. We talked about the importance of keeping an engineering journal. I've been asked to write in it at least one time a week. It seems like a really good idea though, and I think I'll keep track of things for my other classes as well.
 
+Date 9.3.25 - Subject: What I have been struggling with. I had not been able to connect to the team repo for a while, but now that I am connected the assingments have been flying by. This class reminds me of IT1100 with using the command line and GitHub.
+
 Date 9.12.25 - Subject: What I began working on today. We began the class talking about requirements documents and then user stories. Our professor showed us how to create them on the issues tab in the repository. An amazing thing is that you can assign the issues to each person in the group so we know what to work on. This will help us divy up work later on in the project. Starting with a good base will make everything, later on, run more smoothly.
+
+Date 9.16.25 - Subject: What I talked about with my group. After last week I wasn't too happy with having to do all of the assingments by myself. So, naturally I brought this up to my group to strive for a change. I don't want to be doing all of this myself. For example, last week I did all of the user stories and rewrote the requirements document. Looking for more collaboration and all of us pitching in on the assingments.
