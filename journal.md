@@ -11,3 +11,5 @@ Date 9.22.25 - Subject: Where I have been and where I am going. I have learned h
 Date 9.29.25 - Subject: Midterm Updates. I have not started coding yet at all, but I have looked through the existing codebase. It doesn't look that good, but at least it is mostly in python. I only have experience with python. Our teams' collaboration has been getting better as the assignments have been worked on throughout the semester. Now it is time to finally start coding a little and present our idea to the class.
 
 Date 10.6.25 - Subject: Time to write some code. It has been half of the semester and we are just about to start coding. Most of the codebase we are going to work with and edit. Our group set up the project issues so we can keep track of everything. Time to get to it and start coding. I may have to learn a little bit of html and css, but this should be fun.
+
+Date 10.13.25 - Subject: What we are working on. As of last week we updated the css styling in the app and updated the login screen. It now has our logo on it and we removed the youface stuff. I am getting more familiar with launching the flask server because at first I didn't even know how to do that.
