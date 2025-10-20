@@ -13,3 +13,5 @@ Date 9.29.25 - Subject: Midterm Updates. I have not started coding yet at all, b
 Date 10.6.25 - Subject: Time to write some code. It has been half of the semester and we are just about to start coding. Most of the codebase we are going to work with and edit. Our group set up the project issues so we can keep track of everything. Time to get to it and start coding. I may have to learn a little bit of html and css, but this should be fun.
 
 Date 10.13.25 - Subject: What we are working on. As of last week we updated the css styling in the app and updated the login screen. It now has our logo on it and we removed the youface stuff. I am getting more familiar with launching the flask server because at first I didn't even know how to do that.
+
+Date 10.20.25 - Subject: Progress from last week. We made big jumps in how the home page and account page are designed. We switched up the CSS styling to make all of the pages fit our theme. Now we need to work on the main page and edit all of the posting, feed, and other things to make this the best app possible.
