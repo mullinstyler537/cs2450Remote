@@ -15,3 +15,5 @@ Date 10.6.25 - Subject: Time to write some code. It has been half of the semeste
 Date 10.13.25 - Subject: What we are working on. As of last week we updated the css styling in the app and updated the login screen. It now has our logo on it and we removed the youface stuff. I am getting more familiar with launching the flask server because at first I didn't even know how to do that.
 
 Date 10.20.25 - Subject: Progress from last week. We made big jumps in how the home page and account page are designed. We switched up the CSS styling to make all of the pages fit our theme. Now we need to work on the main page and edit all of the posting, feed, and other things to make this the best app possible.
+
+Date 10.27.25 - Subject: Updates from last week. What we learned about unit testing will be really valuable for future endevours but I think it may have just took our group away from the project for a week. I am just exicted that the program is acutally up and running like how it should. Not too many problems so far.
