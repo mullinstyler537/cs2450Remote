@@ -17,3 +17,5 @@ Date 10.13.25 - Subject: What we are working on. As of last week we updated the 
 Date 10.20.25 - Subject: Progress from last week. We made big jumps in how the home page and account page are designed. We switched up the CSS styling to make all of the pages fit our theme. Now we need to work on the main page and edit all of the posting, feed, and other things to make this the best app possible.
 
 Date 10.27.25 - Subject: Updates from last week. What we learned about unit testing will be really valuable for future endevours but I think it may have just took our group away from the project for a week. I am just exicted that the program is acutally up and running like how it should. Not too many problems so far.
+
+Date 11.3.25 - Subject: The gameplan. We discussed as a group what we need to work on and made a big decision to cut some of the things we wanted in our app. We realize that the semester is nearing the end and we don't have time for things like the trending part of the feed or the leaderboard like we wanted.
