@@ -19,3 +19,5 @@ Date 10.20.25 - Subject: Progress from last week. We made big jumps in how the h
 Date 10.27.25 - Subject: Updates from last week. What we learned about unit testing will be really valuable for future endevours but I think it may have just took our group away from the project for a week. I am just exicted that the program is acutally up and running like how it should. Not too many problems so far.
 
 Date 11.3.25 - Subject: The gameplan. We discussed as a group what we need to work on and made a big decision to cut some of the things we wanted in our app. We realize that the semester is nearing the end and we don't have time for things like the trending part of the feed or the leaderboard like we wanted.
+
+Date 11.10.25 - Subject: Where we are. As a group we have been making good progress in my opinion. We added functionality to the like and comment buttons last week. Also, I added a profile page that doesn't have very much information. I am currently trying to work on importing data that was collected with the create account page.
