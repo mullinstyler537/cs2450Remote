@@ -21,3 +21,5 @@ Date 10.27.25 - Subject: Updates from last week. What we learned about unit test
 Date 11.3.25 - Subject: The gameplan. We discussed as a group what we need to work on and made a big decision to cut some of the things we wanted in our app. We realize that the semester is nearing the end and we don't have time for things like the trending part of the feed or the leaderboard like we wanted.
 
 Date 11.10.25 - Subject: Where we are. As a group we have been making good progress in my opinion. We added functionality to the like and comment buttons last week. Also, I added a profile page that doesn't have very much information. I am currently trying to work on importing data that was collected with the create account page.
+
+Date 11.17.25 - Subject: Planning for the end. Our group has been talking about how many more features we want to add and it seems like we are nearing the end of the project. Plenty of things from the original idea won't be making it to the final presentation like the leaderboards, and the function of a celebrity user verses a normal user. That's fine because we were shooting for the stars at the beginning of the project.
